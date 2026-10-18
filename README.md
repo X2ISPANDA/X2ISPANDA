@@ -32,6 +32,5 @@
 
 ### 🔗 我的社交账号
 
-- 🌐 个人博客：[blog.lrcshare.com](https://blog.lrcshare.com)
 - ▶️ YouTube：[@xmy0329](https://www.youtube.com/@xmy0329)
 - 📺 哔哩哔哩：[@37977624](https://space.bilibili.com/37977624)
