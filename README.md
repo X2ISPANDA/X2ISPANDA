@@ -2,7 +2,9 @@
 
 关于名字 X2：一个人总觉得孤单，乘以二就成了幸福的事；X2 也是棉花糖乐团的一首歌，推荐大家去听听；另外初中时同学常叫我「熊二」（跟《熊出没》无关），再加上我姓熊，算是熊猫的远房亲戚 🐼
 
-<img align="right" alt="coding" height="160px" src="./assets/coding.svg" />
+<table>
+<tr>
+<td>
 
 ## 我是一个 Java 程序员
 
@@ -11,7 +13,14 @@
 - 💪🏼 希望可以赚更多的钱
 - ⚡ 音乐就是我的生命，什么都听，主要喜欢 Hip-Hop / 粤语歌
 
-<br/><br/><br/>
+</td>
+<td align="center" valign="middle">
+
+<img alt="coding" height="160px" src="./assets/coding.svg" />
+
+</td>
+</tr>
+</table>
 
 ---
 
